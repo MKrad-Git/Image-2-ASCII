@@ -23,7 +23,9 @@ The Output:
 
 #### GitHub Logo:
 The Input:
+
 ![GitHub_logo_input](tests/GitHub_Input.jpg)
 
 The Output:
+
 ![GitHub_logo_output](tests/GitHub_Output.png)
